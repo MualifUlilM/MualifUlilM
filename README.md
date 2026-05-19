@@ -61,23 +61,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MualifUlilM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MualifUlilM&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=MualifUlilM&theme=tokyonight&hide_border=true" width="600" />
-
-</div>
-
----
-
 ## 🔥 Featured Projects
 
 | Project | Description | Tech |
