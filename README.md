@@ -19,7 +19,7 @@
 
 - 🇮🇩 Based in **Indonesia**
 - 💼 Fullstack Developer specializing in **Web & Mobile Applications**
-- 🏗️ Building scalable business solutions: **POS Systems, Payment Integrations, AI-Powered Apps**
+- 🏗️ Building scalable business solutions: **POS Systems, Payment Integrations, SaaS, CRM, E-Commerce, AI-Powered Apps**
 - 🧊 **Arctic Code Vault Contributor**
 - 🤝 Open for freelance projects & collaborations
 
