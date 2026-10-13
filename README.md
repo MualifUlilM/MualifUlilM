@@ -6,7 +6,7 @@
 
 `Flutter` `Dart` `Next.js` `TypeScript` `Supabase` `PostgreSQL`
 
-7+ years shipping production-ready mobile apps and scalable SaaS/B2B platforms · 90+ repositories · Founder at [Aetheris](https://aetherisdev.com) 🚀
+7+ years shipping production-ready mobile apps and scalable SaaS/B2B platforms · 90+ repositories 🚀
 
 [![Upwork](https://img.shields.io/badge/Upwork-Top_Rated_Track-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0198ce8a8310366fb4)
 [![GitHub followers](https://img.shields.io/github/followers/MualifUlilM?style=for-the-badge&logo=github&logoColor=white&label=Follow&color=181717)](https://github.com/MualifUlilM)
